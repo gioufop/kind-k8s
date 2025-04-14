@@ -1,5 +1,7 @@
 ## Comandos úteis
 
+Para instalar o Kind: https://kind.sigs.k8s.io/docs/user/quick-start/#installation
+
 ### Criar um cluster
 
 Para criar um cluster com o Kind basta:
